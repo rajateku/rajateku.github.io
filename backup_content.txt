@@ -1,0 +1,32 @@
+## About Me
+
+Hi, I am Raja Teku, graduated from Indian Institute of Technology, Bombay.
+Currently I am working as Machine Learning Engieer in Huddl.ai with and experience of 2 years in Industry and 3 years overall in Machine learning and Data Mining
+
+My interests focus on NLP, Semantic Understanding, Classification and Generation of text. I have experience of delivering for interesting problems from startup and industry space.
+
+These are my [repos on github](https://github.com/rajateku/)
+
+### Majority of my work
+
+Majority of my work goes into
+
+```markdown
+1) Text classification
+2) Semantic understanting of text
+3) Using LSTM and word embeddings for sequence to sequnce models
+```
+
+For more details see [My GitHub](https://github.com/rajateku/).
+
+### Skills
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajateku/rajateku.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+### Work Experience
+
+
+### Contact
+
+
