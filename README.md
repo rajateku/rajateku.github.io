@@ -1,6 +1,5 @@
 # Portfolio Website.
 ###### https://rajateku.github.io/
-###### https://vinaysomawat.surge.sh
 
 ![Image](https://github.com/rajateku/rajateku.github.io/blob/master/web-dev/images/portfolio.png)
 ### About me
